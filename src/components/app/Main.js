@@ -25,7 +25,7 @@ function Main() {
     });
 
     return () => unSubscriber();
-  }, []);
+  });
 
   return (
     <>
