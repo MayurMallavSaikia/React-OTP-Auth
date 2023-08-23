@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-OTP-Auth/static/css/main.4d8d407a.css",
+    "main.js": "/React-OTP-Auth/static/js/main.2bf23694.js",
+    "index.html": "/React-OTP-Auth/index.html",
+    "main.4d8d407a.css.map": "/React-OTP-Auth/static/css/main.4d8d407a.css.map",
+    "main.2bf23694.js.map": "/React-OTP-Auth/static/js/main.2bf23694.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d8d407a.css",
+    "static/js/main.2bf23694.js"
+  ]
+}
